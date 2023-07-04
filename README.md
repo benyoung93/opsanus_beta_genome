@@ -4,5 +4,5 @@ Pipeline for toadfish pacbio long read de-novo genome and de-novo transctiopome 
   
 *Next Steps* - Upload all information  
   
-**NCBI Project Number** - 
+**NCBI Project Number** -  
 **Publication** - 
